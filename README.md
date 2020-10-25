@@ -8,14 +8,14 @@ DEEPSPACE（简称：DS）由澳洲深空科技、爱尔兰 ICT、新加坡 FeeL
 
 DS DEFI（全称Decentralized Finance）去中心化金融生态链技术代码全部开源：去中心化、去中心化币币交易；交易记录全部记录在区块链上，数据公开、透明可追溯，不可篡改，聚能链上金融生态！
 
-深空DS最终使命是成为一站式 DeFi 加密数字货币商业银行。
+深空DS 将成为DeFi 加密数字货币商业银行。
 
 
 
 
 Official website: https://www.dsdefi.club
 
-Blockchain Browser: https://explorer.sgy.plus
+Blockchain Browser: https://www.dscoin.live/explorer
 
 Open source address: https://github.com/DEEPSPACE007/DsDeFi-Exchange
 
