@@ -13,7 +13,7 @@ DS DEFI（全称Decentralized Finance）去中心化金融生态链技术代码�
 
 
 
-Official website: https://www.dsdefi.club
+Official website: https://www.dscoin.net/
 
 Blockchain Browser: https://www.dscoin.live/explorer
 
